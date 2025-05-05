@@ -1,11 +1,11 @@
 let x = 'http://www.x.com/sameera_s_w';
 let linkedin = 'https://www.linkedin.com/in/sameerasw/';
 let github = 'https://github.com/sameerasw';
-let website = 'https://sameerasw.me/';
+let website = 'https://www.sameerasw.com/';
 let instagram = 'https://www.instagram.com/sameera_s_w';
 let repo = 'https://github.com/sameerasw/terminal_portfolio';
 let project = 'https://github.com/sameerasw?tab=repositories';
-let project_site = "https://sameerasw.me/#portfolio"
+let project_site = "https://www.sameerasw.com/#projects"
 let existCommands = [
   'about',
   'banner',
